@@ -32,7 +32,7 @@ const Header: React.FC = () => {
           
           <div className="flex items-center space-x-2">
             <Twitter className="w-5 h-5 text-primary-600" />
-            <span className="text-sm text-secondary-600">Powered by AI</span>
+            <span className="text-sm text-secondary-600">https://nexoraofficial.netlify.app</span>
           </div>
         </div>
       </div>
