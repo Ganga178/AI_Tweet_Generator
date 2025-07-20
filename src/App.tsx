@@ -1,4 +1,3 @@
-import React from 'react';
 import Header from './components/Header';
 import TweetGenerator from './components/TweetGenerator';
 import Footer from './components/Footer';
